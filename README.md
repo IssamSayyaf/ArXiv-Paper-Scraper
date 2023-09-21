@@ -17,6 +17,6 @@ pip install feedparser requests
 To use the script, simply run it using Python:
 
 ```bash
-python your_script_name.py
+python ArXiv_Paper_Scraper.py
 ```
 You'll be prompted to enter the keyword(s) for your search and the maximum number of results. The script will then fetch the papers from ArXiv and save them in a text file named new_papers.txt. It will also display the title, authors, and summary in the console. If the file new_papers.txt does not exist, the script will automatically create it.
