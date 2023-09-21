@@ -10,6 +10,13 @@ You can install these using pip:
 
 ```bash
 pip install feedparser requests
+```
 
-##Usage
+## Usage
+
 To use the script, simply run it using Python:
+
+```bash
+python your_script_name.py
+```
+
