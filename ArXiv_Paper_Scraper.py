@@ -1,3 +1,7 @@
+'''
+DEVELOPER: Mohamad Issam Sayyaf
+EMAIL: issamsayyaf97@gmail.com
+'''
 import feedparser
 import requests
 from urllib.parse import quote
